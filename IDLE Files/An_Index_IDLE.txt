@@ -1,0 +1,20 @@
+
+The Python IDLE program files
+
+
+euclid_algorithm.py --- See Exercise 10.
+F2C.py --- See Exercise 1(a).
+F2K.py --- Converts degrees Fahrenheit to Kelvin.
+fibonacci.py --- Lists first n terms of the Fibonacci sequence.
+fmu.py --- The logistic function.
+fractal_tree.py --- Plots a fractal tree.
+fractal_tree_color.py --- Plots a color fractal tree.
+grade.py --- Converts a score to a grade.
+guess_number --- Guess the number game.
+koch_snowflake --- See Exercise 1(d).
+koch_square.py --- Plots a Koch square fractal.
+pythag_triples --- See Exercise 1(c).
+sierpinski.py --- Plots a Sierpinski triangle fractal.
+sierpinski_square --- Plots a Sierpinski square fractal.
+sum_primes --- See Exercise 1(b).
+sum_n.py --- Sums the natural numbers to N.

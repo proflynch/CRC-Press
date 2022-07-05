@@ -1,7 +1,7 @@
 
 The Python IDLE program files
 
-
+cantor.py --- The Cantor set.
 euclid_algorithm.py --- See Exercise 10.
 F2C.py --- See Exercise 1(a).
 F2K.py --- Converts degrees Fahrenheit to Kelvin.

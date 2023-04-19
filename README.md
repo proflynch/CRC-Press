@@ -1,6 +1,6 @@
 ﻿# CRC Press Source Code
 
-This repository accompanies *Python for Scientific Computing and Artificial Intelligence* by Stephen Lynch (Copyright, 2022-present).
+This repository accompanies *Python for Scientific Computing and Artificial Intelligence* by Stephen Lynch (Copyright, 2023-present).
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
@@ -11,6 +11,8 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Corrections
 
 For corrections to the content in the published book, see the file errata.md.
+
+Please contact me if you notice any errors.
 
 ## Contributions
 

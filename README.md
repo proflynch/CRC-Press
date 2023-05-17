@@ -10,7 +10,7 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 
 ## Corrections
 
-For corrections to the content in the published book, see the file errata.md.
+For corrections to the content in the published book, see the file Errata.pdf.
 
 Please contact me if you notice any errors.
 
